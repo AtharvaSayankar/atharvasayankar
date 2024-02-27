@@ -36,6 +36,18 @@
   [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaSayankar)
 </div>
 
+## <div align="center">📊 GitHub Stats</div>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=atharvasayankar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvasayankar&theme=default&hide_border=false)<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasayankar&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/atharvasayankar/github-readme-stats)
+</div>
+
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvasayankar&style=flat-square&color=blue" alt=""/>
+</div>
+
 <!--
 **AtharvaSayankar/atharvasayankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
