@@ -15,9 +15,9 @@
   
   ![c++](https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cplusplus)
   ![reactjs](https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=Yellow&labelColor=rgb)
+  ![reactnative](https://img.shields.io/badge/reactnative-grey?style=for-the-badge&logo=react)
   ![expressjs](https://img.shields.io/badge/expressjs-yellow?style=for-the-badge&logo=express)
   ![nodejs](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js)
-  ![reactnative](https://img.shields.io/badge/reactnative-grey?style=for-the-badge&logo=react)
   ![wordpress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress)
   ![html](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
   ![css](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
