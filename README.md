@@ -23,7 +23,7 @@
   ![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
   ![ejs](https://img.shields.io/badge/ejs-maroon?style=for-the-badge&logo=ejs)
   ![bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap)
-  ![mysql](https://img.shields.io/badge/MySQL-goldenrod?style=for-the-badge&logo=mysql)
+  ![mysql](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql)
   ![mongodb](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
   ![wordpress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress)
   ![canva](https://img.shields.io/badge/canva-navy?style=for-the-badge&logo=canva)
