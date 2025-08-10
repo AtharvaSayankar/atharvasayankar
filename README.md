@@ -14,15 +14,13 @@
 <div align="center">
   
   ![c++](https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cplusplus)
+  ![angularjs](https://img.shields.io/badge/angularjs-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=rgb)
   ![reactjs](https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=Yellow&labelColor=rgb)
-  ![reactnative](https://img.shields.io/badge/reactnative-grey?style=for-the-badge&logo=react)
   ![expressjs](https://img.shields.io/badge/expressjs-yellow?style=for-the-badge&logo=express)
   ![nodejs](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js)
   ![html](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
   ![css](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
   ![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-  ![ejs](https://img.shields.io/badge/ejs-maroon?style=for-the-badge&logo=ejs)
-  ![bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap)
   ![mysql](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql)
   ![mongodb](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
   ![wordpress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress)
