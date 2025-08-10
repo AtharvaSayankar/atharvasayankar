@@ -40,8 +40,8 @@
 ## <div align="center">📊 GitHub Stats</div>
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=atharvasayankar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvasayankar&theme=default&hide_border=false)<br/>
+  <!--![](https://github-readme-stats.vercel.app/api?username=atharvasayankar&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=atharvasayankar&theme=default&hide_border=false)<br/>-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasayankar&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/atharvasayankar/github-readme-stats)
 </div>
 
