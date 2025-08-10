@@ -31,7 +31,7 @@
 <div align="center">
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-sayankar-407223264)
-  [![gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](https://atharvasayankar31300@gmail.com)
+  [![gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)]
   [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaSayankar)
 </div>
 
