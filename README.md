@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  I'm a web developer...
+  I'm a Computer geek ...
   
   Curious to explore AI & ML, Deep Learning, Computer Vision, NLP and full stack web development
   
@@ -12,7 +12,8 @@
 
 ## <div align="center">🛠 Tech Stack</div>
 <div align="center">
-  
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
   ![c++](https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cplusplus)
   ![angularjs](https://img.shields.io/badge/angularjs-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=rgb)
   ![reactjs](https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=Yellow&labelColor=rgb)
