@@ -5,7 +5,7 @@
   
   I'm a web developer...
   
-  Interested in full stack web development projects, especially MERN stack
+  Curious to explore AI & ML, Deep Learning, Computer Vision, NLP and full stack web development
   
   Enthusiastic to develop awesome and interesting projects
 </div>
