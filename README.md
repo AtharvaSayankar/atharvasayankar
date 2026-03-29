@@ -5,7 +5,7 @@
   
   I'm a Computer geek ...
   
-  Curious to explore AI & ML, Deep Learning, Computer Vision, NLP and full stack web development
+  Curious to explore AI & ML, Deep Learning, Computer Vision, NLP and Web Dev
   
   Enthusiastic to develop awesome and interesting projects
 </div>
